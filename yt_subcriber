@@ -1,2 +1,2 @@
 
-second test
+if (!require("tuber")) install.packages("tuber")
